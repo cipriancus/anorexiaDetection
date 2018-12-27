@@ -1,4 +1,4 @@
-# ERISK 2019: EARLY RISK PREDICTION ON THE INTERNET
+# ERISK 2019: Early Detection of Signs of Self-harm
 
 <h2> Useful links </h2>
 
