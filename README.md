@@ -1,15 +1,12 @@
-# ERISK 2019: Task 3: Measuring the severity of the signs of depression
+# Early Detection of Signs of Depression
 
 <h2> Useful links </h2>
 
-eRisk CLEF: http://early.irlab.org/
+eRisk CLEF: http://early.irlab.org/ http://early.irlab.org/2018/index.html
 
 Google docs link: https://drive.google.com/drive/u/0/folders/1OwOwZJjpG-574n4b5GAkOcaWN3izhAYa
 
 
 <h2>Description</h2>
 
-This is a new task in 2019. The task consists of estimating the level of depression from a thread of user submissions. 
-For each user, the participants will be given a history of postings and the participants will have to fill a standard depression questionnaire (based on the evidence found in the history of postings).
-
-The questionnaires are defined from Beck's Depression Inventory (BDI), which assesses the presence of feelings like sadness, pessimism, loss of energy, etc.
+The challenge consists in performing a task on early risk detection of depression. The challenge consists of sequentially processing pieces of evidence and detect early traces of depression as soon as possible. The task is mainly concerned about evaluating Text Mining solutions and, thus, it concentrates on texts written in Social Media. Texts should be processed in the order they were created. In this way, systems that effectively perform this task could be applied to sequentially monitor user interactions in blogs, social networks, or other types of online media.
