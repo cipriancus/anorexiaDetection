@@ -2,7 +2,7 @@
 
 <h2> Useful links </h2>
 
-eRisk CLEF: http://early.irlab.org/ http://early.irlab.org/2018/index.html
+eRisk CLEF: http://early.irlab.org/
 
 Google docs link: https://drive.google.com/drive/u/0/folders/1OwOwZJjpG-574n4b5GAkOcaWN3izhAYa
 
