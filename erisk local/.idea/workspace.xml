@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99bc3ba3-acf9-4817-98fc-0cc1b871d971" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithm/classify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>batchify</find>
+      <find>infinify</find>
+      <find>erisk2018data</find>
+      <find>predict</find>
+      <find>tf</find>
+      <find>task_number</find>
+      <find>task</find>
+      <find>positives</find>
+      <find>split</find>
+      <find>solver</find>
+      <find>activation</find>
+      <find>learning_rate</find>
+      <find>adaptive</find>
+      <find>ET</find>
+      <find>ET.</find>
+      <find>configuration</find>
+      <find>Task</find>
+      <find>models_dir</find>
+      <find>clf</find>
+      <find>subject6302</find>
+      <find>pkl</find>
+      <find>vectorizer</find>
+      <find>vector</find>
+      <find>VECTOR</find>
+      <find>n_components</find>
+      <find>learning_method</find>
+      <find>decide</find>
+      <find>Testing</find>
+      <find>threshold</find>
+      <find>shrinking_ratio</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>pickle</replace>
+      <replace>tfidf</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/data</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eRisk-2018-parser/config.cfg.default" />
+        <option value="$PROJECT_DIR$/data/task2/chunks/chunk1/subject31_1.xml" />
+        <option value="$PROJECT_DIR$/data/task2/splits/train.csv" />
+        <option value="$PROJECT_DIR$/data/task2/splits/test.csv" />
+        <option value="$PROJECT_DIR$/eRisk-2018-ML/config.cfg.default" />
+        <option value="$PROJECT_DIR$/eRisk-2018-ML/lda.py" />
+        <option value="$PROJECT_DIR$/eRisk-2018-ML/configuration.cfg" />
+        <option value="$PROJECT_DIR$/eRisk-2018-parser/test_datahandler.py" />
+        <option value="$PROJECT_DIR$/algorithm/lda.py" />
+        <option value="$PROJECT_DIR$/algorithm/handler.py" />
+        <option value="$PROJECT_DIR$/data/task2/UQAMA_1.txt" />
+        <option value="$PROJECT_DIR$/algorithm/predict.py" />
+        <option value="$PROJECT_DIR$/algorithm/configuration.cfg" />
+        <option value="$PROJECT_DIR$/algorithm/helpers/gen.py" />
+        <option value="$PROJECT_DIR$/algorithm/helpers/generator.py" />
+        <option value="$PROJECT_DIR$/algorithm/task.py" />
+        <option value="$PROJECT_DIR$/algorithm/classify_export_files.py" />
+        <option value="$PROJECT_DIR$/../risk_golden_truth.txt" />
+        <option value="$PROJECT_DIR$/algorithm/model/configuration.cfg" />
+        <option value="$PROJECT_DIR$/algorithm/classify.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="699" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="erisk local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erisk local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="erisk local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erisk local" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="erisk local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erisk local" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="erisk local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erisk local" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="erisk local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erisk local" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/model" />
+      <recent name="$PROJECT_DIR$/algorithm/helpers" />
+      <recent name="$PROJECT_DIR$/algorithm" />
+      <recent name="$PROJECT_DIR$/data/task2" />
+      <recent name="$PROJECT_DIR$/data/task2/splits/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm" />
+      <recent name="$PROJECT_DIR$/data/task2/splits" />
+      <recent name="$PROJECT_DIR$/data/task2/train/chunks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.classify">
+    <configuration name="classify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="erisk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/classify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classify_export_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="erisk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/classify_export_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.classify" />
+        <item itemvalue="Python.classify_export_files" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99bc3ba3-acf9-4817-98fc-0cc1b871d971" name="Default Changelist" comment="" />
+      <created>1555914342289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555914342289</updated>
+      <workItem from="1555914346209" duration="11607000" />
+      <workItem from="1555932243273" duration="5403000" />
+      <workItem from="1555941113161" duration="3607000" />
+      <workItem from="1555996541920" duration="2548000" />
+      <workItem from="1556000805305" duration="8789000" />
+      <workItem from="1556024474356" duration="54000" />
+      <workItem from="1556084393079" duration="961000" />
+      <workItem from="1556093804044" duration="3626000" />
+      <workItem from="1556106059488" duration="531000" />
+      <workItem from="1556168305354" duration="69000" />
+      <workItem from="1556262787018" duration="2602000" />
+      <workItem from="1556521585676" duration="837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 47m 52s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 49m 39s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 50m 06s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 50m 12s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 50m 48s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 50m 59s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 10h 52m 55s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 11h 06m 59s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 11h 07m 29s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_datahandler_TestTask_test_get_split - 2019.04.22 at 13h 27m 15s.xml">
+      <configuration name="Unittests for test_datahandler.TestTask.test_get_split" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40634000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2108467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960325" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3739224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979655" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960325" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32960325" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32960325" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19292426" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960325" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3743642" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979655" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960325" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32960325" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32960325" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/erisk$Unittests_for_test_datahandler_TestTask_test_with_dates.coverage" NAME="Unittests for test_datahandler.TestTask.test_with_dates Coverage Results" MODIFIED="1555919240896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eRisk-2018-parser" />
+    <SUITE FILE_PATH="coverage/erisk$lda.coverage" NAME="lda Coverage Results" MODIFIED="1555956935153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/erisk$predict.coverage" NAME="predict Coverage Results" MODIFIED="1555955887750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/erisk$classify_export_files.coverage" NAME="classify_export_files Coverage Results" MODIFIED="1556021738144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/erisk$classify.coverage" NAME="classify Coverage Results" MODIFIED="1556023284717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/erisk$Unittests_for_test_datahandler_TestTask_test_text_only_xml.coverage" NAME="Unittests for test_datahandler.TestTask.test_text_only_xml Coverage Results" MODIFIED="1555919243692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eRisk-2018-parser" />
+    <SUITE FILE_PATH="coverage/erisk$Unittests_for_test_datahandler_TestTask_test_get_split.coverage" NAME="Unittests for test_datahandler.TestTask.test_get_split Coverage Results" MODIFIED="1555928835473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eRisk-2018-parser" />
+    <SUITE FILE_PATH="coverage/erisk$Unittests_in_test_datahandler_py.coverage" NAME="Unittests in test_datahandler.py Coverage Results" MODIFIED="1555916980822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/erisk_local$classify.coverage" NAME="classify Coverage Results" MODIFIED="1556521811943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/.Rhistory" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/README.md" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-ML/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-ML/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/config.cfg.default" />
+    <entry file="file:///usr/lib/python3.5/unittest/case.py" />
+    <entry file="file://$PROJECT_DIR$/data/task2/train/chunks/chunk1/subject31_1.xml" />
+    <entry file="file://$PROJECT_DIR$/data/task2/vectorizer" />
+    <entry file="file://$PROJECT_DIR$/data/task2/chunks/chunk1/subject31_1.xml" />
+    <entry file="file://$PROJECT_DIR$/data/task2/splits/train/chunk1/subject31_1.xml" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task2/splits/risk_golden_truth.txt" />
+    <entry file="file://$PROJECT_DIR$/data/task2/splits/train/train.csv" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task2/lda" />
+    <entry file="file://$PROJECT_DIR$/data/task2/test/risk-golden-truth-test.txt" />
+    <entry file="file://$PROJECT_DIR$/data/task2/splits/test/test.csv" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-ML/README.md" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/erisk2018data/handler.py" />
+    <entry file="file://$PROJECT_DIR$/data/task2/chunks/chunk1/subject6978_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="245" column="16" selection-start-line="245" selection-start-column="10" selection-end-line="245" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task2/splits/train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task2/splits/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/model/clf_2_.p" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/feature_extraction/text.py" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/test_datahandler.py" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/rsync-exclude.txt" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/setup.py" />
+    <entry file="file://$PROJECT_DIR$/eRisk-2018-parser/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/algorithm/splitter.py" />
+    <entry file="file://$PROJECT_DIR$/algorithm/wps_maker.py" />
+    <entry file="file://$PROJECT_DIR$/data/task2/UQAMA_10.txt" />
+    <entry file="file://$PROJECT_DIR$/data/task2/UQAMA_1.txt" />
+    <entry file="file://$PROJECT_DIR$/algorithm/model/pipeline_2_.p" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971764/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/algorithm/doc.py" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/neural_network/multilayer_perceptron.py" />
+    <entry file="file://$PROJECT_DIR$/data/task2/TEST_10.txt" />
+    <entry file="file://$PROJECT_DIR$/data/task2/TEST_1.txt" />
+    <entry file="file://$PROJECT_DIR$/../risk_golden_truth.txt" />
+    <entry file="file://$PROJECT_DIR$/data/task1/splits/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/task1/splits/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/helpers/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/helpers/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/classify_export_files.py" />
+    <entry file="file:///usr/lib/python3.5/pickle.py" />
+    <entry file="file:///usr/lib/python3.5/configparser.py" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/pipeline.py" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/metrics/classification.py" />
+    <entry file="file://$PROJECT_DIR$/algorithm/model/configuration.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/decomposition/online_lda.py" />
+    <entry file="file://$PROJECT_DIR$/algorithm/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
