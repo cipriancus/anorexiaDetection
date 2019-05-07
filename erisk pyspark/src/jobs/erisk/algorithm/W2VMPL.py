@@ -35,11 +35,12 @@ class W2VMPL:
             self.labels, self.users = map(list, zip(*both))
 
         self.tokenizer = Tokenizer(inputCol="text", outputCol="rawWords")
+
         self.stopWords = StopWordsRemover(inputCol="rawWords", outputCol="words", caseSensitive=False,
                                           stopWords=StopWordsRemover.loadDefaultStopWords("english"))
-        self.w2v = Word2Vec(inputCol="words", outputCol="features",vectorSize=300)
+        self.w2v = Word2Vec(inputCol="words", outputCol="features",vectorSize=500)
 
-        self.mlp = MultilayerPerceptronClassifier(maxIter=1500, layers=[300, 80, 100, 2], blockSize=128, seed=1234)
+        self.mlp = MultilayerPerceptronClassifier(maxIter=1500, layers=[500, 80, 100, 2], blockSize=128, seed=1234)
 
         self.pipeline = Pipeline(stages=[self.tokenizer, self.stopWords, self.w2v, self.mlp])
 

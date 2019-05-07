@@ -39,11 +39,10 @@ class IDFMLPClassifier:
         self.tokenizer = Tokenizer(inputCol="text", outputCol="rawWords")
         self.stopWords = StopWordsRemover(inputCol="rawWords", outputCol="words",caseSensitive=False,stopWords=StopWordsRemover.loadDefaultStopWords("english"))
         self.hashingTF = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=6000)
-        self.idf = IDF(inputCol="rawFeatures", outputCol="features")
-        self.lda = LDA(k=30)
+        self.idf = IDF(inputCol="rawFeatures", outputCol="features")#minDocFreq=2,
         self.mlp = MultilayerPerceptronClassifier(maxIter=1500, layers=[6000, 80, 100, 2], blockSize=128, seed=1234)
 
-        self.pipeline = Pipeline(stages=[self.tokenizer, self.stopWords, self.hashingTF, self.idf, self.lda, self.mlp])
+        self.pipeline = Pipeline(stages=[self.tokenizer, self.stopWords, self.hashingTF, self.idf, self.mlp])
 
         self.model = self.pipeline.fit(self.create_data_frame(self.users, self.labels))
 
